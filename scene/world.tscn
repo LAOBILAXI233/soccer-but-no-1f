@@ -33,3 +33,12 @@ centered = false
 
 [node name="player" parent="." instance=ExtResource("4_m5mgf")]
 position = Vector2(142, 83)
+
+[node name="player2" parent="." instance=ExtResource("4_m5mgf")]
+position = Vector2(210, 84)
+up_direction = Vector2(0, 1)
+control_scheme = 1
+
+[node name="player3" parent="." instance=ExtResource("4_m5mgf")]
+position = Vector2(159, 132)
+control_scheme = 2
